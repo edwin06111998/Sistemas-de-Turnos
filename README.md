@@ -1,6 +1,9 @@
 <img src="https://github.com/jaimepizarr/ProyectoEstrucutras2.0/blob/master/images/logo.png?raw=true" align="right" />
 
 # SISTEMA DE TURNOS PARA HOSPITALES 🚀
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/0a1d1c9e492342879809b380a4c54f45)](https://app.codacy.com/manual/eljosephavila123/ProyectoEstrucutras2.0?utm_source=github.com&utm_medium=referral&utm_content=eljosephavila123/ProyectoEstrucutras2.0&utm_campaign=Badge_Grade_Dashboard)
+
 > 
 ![GitHub repo size](https://img.shields.io/github/repo-size/jaimepizarr/ProyectoEstrucutras2.0)
 [![language][language-shield]][language-url]
